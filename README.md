@@ -1,5 +1,5 @@
 # EditorsCraft
-A mod packed with useful tools for Directors and Minecrafters alike.
+A mod packed with useful tools for directing in Minecraft.
 # Scope
 **We aim to achieve the following:**
 - A system that is easily understandable by new and advanced users.
