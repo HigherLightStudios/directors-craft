@@ -1,4 +1,4 @@
-# DirectorsCraft
+# EditorsCraft
 A mod packed with useful tools for Directors and Minecrafters alike.
 # Scope
 **We aim to achieve the following:**
